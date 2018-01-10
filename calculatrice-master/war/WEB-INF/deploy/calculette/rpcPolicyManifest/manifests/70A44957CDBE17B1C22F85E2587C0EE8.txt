@@ -1,0 +1,2 @@
+serviceClass: fr.calcul.client.OperatorService
+path: 4EC940FEDD633CD2C1BEEF7F0091A88C.gwt.rpc

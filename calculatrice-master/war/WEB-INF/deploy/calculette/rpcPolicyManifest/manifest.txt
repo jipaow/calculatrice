@@ -1,0 +1,3 @@
+# Module calculette
+# RPC service class, partial path of RPC policy file
+fr.calcul.client.OperatorService, 4EC940FEDD633CD2C1BEEF7F0091A88C.gwt.rpc
